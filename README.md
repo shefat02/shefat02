@@ -25,7 +25,7 @@ Welcome to my digital workshop! I am a self-driven student who recently cleared 
 ---
 
 ### 🤝 Let's Connect!
-*   **LinkedIn:** [Your LinkedIn Profile Link]
+*   **LinkedIn:** linkedin.com/in/md-shefat-khan-b2066b41b
 *   **Email:** mdshefatkhan96@gmail.com
 
 *"Data is the new oil, but it's only useful when refined."*
